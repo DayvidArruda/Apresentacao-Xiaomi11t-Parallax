@@ -11,7 +11,7 @@ e na aba Produtos, será possível ver os produtos da fabricante e também onde 
 # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Apresentação da página Front-End usando parallax.
-- `Funcionalidade 2`: Navegação entre abas. Ex: Home, Unboxing e Produto.
+- `Funcionalidade 2`: Navegação entre abas. Ex: Home, Unboxing e Produtos.
 - `Funcionalidade 3`: Informações sobre os produtos da marca, onde comprar, seu valor e suas especificações.
 
 <h1>✔️ Tecnologias utilizadas</h1>
